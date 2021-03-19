@@ -1,4 +1,4 @@
-# challenge02-react-ignite<h1 align="center">🎬 WatchMe</h1>
+<h1 align="center">🎬 WatchMe</h1>
 <p align="center">Third challenge of trail ReactJs in Ignite Rockteseat. 🚀</p>
 
 <img src="https://github.com/tiagopierre/challenge02-react-ignite/blob/main/assests/screenshot.PNG" alt="screenshot"/>
